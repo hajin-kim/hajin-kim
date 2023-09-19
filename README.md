@@ -1,4 +1,4 @@
-### Hi there 👋
+![solved.ac strict](http://mazandi.herokuapp.com/api?handle=kimhajin8520&theme=warm)
 
 <!--
 **hajin-kim/hajin-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
