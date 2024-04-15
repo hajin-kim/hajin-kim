@@ -1,4 +1,4 @@
-[![Solved.ac strict](https://mazandi.herokuapp.com/api?handle=kimhajin8520&theme=dark)](https://solved.ac/kimhajin8520)
+<!-- [![Solved.ac strict](https://mazandi.herokuapp.com/api?handle=kimhajin8520&theme=dark)](https://solved.ac/kimhajin8520) -->
 [![Solved.ac profile](https://mazassumnida.wtf/api/generate_badge?boj=kimhajin8520)](https://solved.ac/kimhajin8520)
 
 <!--
